@@ -39,9 +39,6 @@
   ];
 
   ```
-T.LY URL Shortener URL Shortener, Custom Domain & Short Link Management
-T.LY is the World's Shortest Free URL Shortener tool that takes a long URL and turns it into short links or QR codes that are easy to share and track the analytics. Create short branded URLs
-
 
 ## Βήμα 6: Routing
  
