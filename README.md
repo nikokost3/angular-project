@@ -49,7 +49,7 @@
  
 - Χρήση του backend για τον έλεγχο ύπαρξης duplicate email στη βάση και χρήση της πληροφορίας κατά το event `blur` για να γίνει το πεδίο email invalid.
 
-#### Βήμα 13: ΗTTP Client Service
+## Βήμα 13: ΗTTP Client Service
  
 - Για να μπορέσουμε να χρησιμοποιήσουμε τον HTTP Client είναι απαραίτητη η επέμβαση στο `app.config.ts` :
  
